@@ -1,0 +1,3 @@
+[submodule "airootfs/home/charon/dotfiles.git/main"]
+	path = airootfs/home/charon/dotfiles.git/main
+	url = https://github.com/PandeCode/dotfiles

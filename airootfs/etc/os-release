@@ -1,0 +1,11 @@
+NAME="CharonCore"
+VERSION="1.0"
+VERSION_CODENAME="Thanatos"
+ID="charon"
+ID_LIKE="arch"
+PRETTY_NAME="CharonCore 1.0"
+ANSI_COLOR="0;36"
+HOME_URL="https://pandecode.github.io/charoncore/"
+SUPPORT_URL="https://pandecode.github.io/charoncore/support"
+BUG_REPORT_URL="https://pandecode.github.io/charoncore/bugs"
+LOGO=archlinux-logo
